@@ -1,6 +1,6 @@
-# Airline Company Manager
+# Airline Company Manager – Route Planning and Analysis
 
-Welcome to Airline Company Manager – a PL/SQL project that helps manage airline operations. It handles tasks like managing flights, reservations, and passenger data through procedures, functions, triggers, and packages. Whether you're an admin optimizing routes or a user checking flight details, this application makes managing flights easier.
+Welcome to Airline Company Manager – Route Planning and Analysis, a PL/SQL project designed to streamline airline operations. This system manages flights, reservations, and passenger data using procedures, functions, triggers, and packages. Whether you're an administrator optimizing routes or a user checking flight details, this application simplifies flight management.
 
 - **Data Aggregation & Analysis:**  
   Dive into advanced data processing by aggregating passenger spending, evaluating route performance, and calculating flight revenue using collections, loops, and cursors.  
